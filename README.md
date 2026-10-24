@@ -1,4 +1,4 @@
-# Kişisel Portföy — Başlangıç
+# Kişisel Portföy
 
 ## Dosyalar
 - `index.html`: Sayfa içeriği
